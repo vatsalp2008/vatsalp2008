@@ -2,7 +2,7 @@
 
 ### 🎓 CS Master's Student @ Northeastern University | 🏎️ F1 Enthusiast | 💻 ML & Software Engineer
 
-Currently pursuing my Master's in Computer Science at Northeastern's Seattle campus with a 4.0 GPA, graduating May 2027. Passionate about building intelligent systems that solve real-world problems.
+Currently pursuing my Master's in Computer Science at Northeastern's Seattle campusn, graduating May 2027. Passionate about building intelligent systems that solve real-world problems.
 
 ---
 
@@ -71,9 +71,9 @@ Intelligent route optimization system for Seattle public transit
 
 ## 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vatsalpandya2511.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-pandya25)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandya.vats@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vatsalp2008.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsalp20/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsalp2008@gmail.com)
 
 ---
 
