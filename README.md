@@ -13,11 +13,6 @@ Currently pursuing my Master's in Computer Science at Northeastern's Seattle cam
 - 🤖 Creating intelligent systems with ML and AI
 - 📚 Mastering advanced algorithms and AI fundamentals
 
-## 💼 Experience
-
-**Machine Learning Intern** @ Kalindi Industries *(Dec 2024 - Mar 2025)*  
-**Software Development Intern** @ Kalini Industries *(Jan - Apr 2024)*
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -37,25 +32,25 @@ Currently pursuing my Master's in Computer Science at Northeastern's Seattle cam
 
 ## 🏆 Featured Projects
 
-### 🤖 [Knightmare - Chess AI Engine](https://github.com/yourusername/chess-ai)
+### 🤖 [Knightmare - Chess AI Engine](https://github.com/vatsalp2008/chess-ai)
 Intelligent chess engine implementing minimax with alpha-beta pruning, achieving 70% tournament win rate
 - Advanced adversarial search algorithms
 - Optimized evaluation functions
 - Real-time game analysis
 
-### 📈 [Investment Prediction Platform](https://github.com/yourusername/investment-predictor)
+### 📈 [Investment Prediction Platform](https://github.com/vatsalp2008/investment-predictor)
 ML-powered platform for stock market predictions using LSTM networks
 - Time series forecasting
 - Interactive dashboards
 - Real-time data integration
 
-### 🏁 [F1 Race Predictor](https://github.com/yourusername/f1-predictor)
+### 🏁 [F1 Race Predictor](https://github.com/vatsalp2008/f1-predictor)
 Machine learning model predicting Formula 1 race outcomes
 - Historical data analysis
 - Performance metrics modeling
 - Driver & team analytics
 
-### 🚇 [Seattle Transit Pathfinding](https://github.com/yourusername/seattle-transit)
+### 🚇 [Seattle Transit Pathfinding](https://github.com/vatsalp2008/seattle-transit)
 Intelligent route optimization system for Seattle public transit
 - Graph algorithms implementation
 - Real-time route calculation
@@ -63,9 +58,9 @@ Intelligent route optimization system for Seattle public transit
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsalp2008&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalp2008&layout=compact&theme=radical)
 
 ## 🎯 Currently Learning
 
@@ -74,16 +69,11 @@ Intelligent route optimization system for Seattle public transit
 - Cloud Architecture (AWS, Azure)
 - Advanced Algorithms & Data Structures
 
-## 🤝 Leadership & Community
-
-- **Head Coordinator** @ BAPS Temple (6+ years) - Leading volunteer teams and community events
-- **Head Coordinator** @ Computer Society of India - Organizing technical workshops and hackathons
-
 ## 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vatsalpandya2511.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-pandya25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandya.vats@northeastern.edu)
 
 ---
 
