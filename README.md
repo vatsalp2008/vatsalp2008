@@ -56,12 +56,6 @@ Intelligent route optimization system for Seattle public transit
 - Real-time route calculation
 - Multi-modal transportation support
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsalp2008&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalp2008&layout=compact&theme=radical)
-
 ## 🎯 Currently Learning
 
 - Advanced Machine Learning techniques
