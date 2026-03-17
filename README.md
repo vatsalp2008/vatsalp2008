@@ -50,10 +50,9 @@
 
 <div align="center">
 
-| 🔢 Projects | 💼 Internships | 📚 TA Role | 📈 Best R² |
-|:-----------:|:--------------:|:-----------:|:----------:|
-| **11** | **2 @ Kalini Industries** | **CS 5008 — DSA in C** | **0.82** |
-
+| 🔢 Projects | 💼 Internships |
+|:-----------:|:--------------:|
+| **11** | **2 @ Kalini Industries** |
 </div>
 
 ---
