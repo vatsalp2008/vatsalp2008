@@ -2,11 +2,16 @@
 """Convert a source photo into an ASCII-art SVG portrait for a dark GitHub theme.
 
 Usage:
-    python generate_ascii.py <input_image> <output_svg>
+    python generate_ascii.py <input_image> <output_svg> [--invert]
+
+On a dark terminal theme, dense characters ("@") read as bright green and
+spaces read as dark. That inverts tonality (dark pixels look bright). Pass
+--invert when the subject is darker than the background so the figure renders
+as the bright element.
 """
 import sys
 
-from PIL import Image
+from PIL import Image, ImageOps
 
 # Character ramp from darkest to lightest.
 RAMP = "@%#*+=-:. "
@@ -32,9 +37,11 @@ def escape(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def image_to_ascii(path):
+def image_to_ascii(path, invert=False):
     """Return a list of ASCII rows for the given image."""
     img = Image.open(path).convert("L")
+    # Stretch contrast so faces/figures separate from the background.
+    img = ImageOps.autocontrast(img, cutoff=2)
     width, height = img.size
 
     cols = COLS
@@ -52,6 +59,8 @@ def image_to_ascii(path):
         chars = []
         for c in range(cols):
             brightness = pixels[r * cols + c]
+            if invert:
+                brightness = 255 - brightness
             # Map 0..255 brightness onto the ramp (0 -> darkest char).
             idx = brightness * (ramp_len - 1) // 255
             chars.append(RAMP[idx])
@@ -99,12 +108,15 @@ def ascii_to_svg(lines):
 
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python generate_ascii.py <input_image> <output_svg>")
+    args = [a for a in sys.argv[1:] if a != "--invert"]
+    invert = "--invert" in sys.argv[1:]
+    if len(args) != 2:
+        print("Usage: python generate_ascii.py <input_image> <output_svg> "
+              "[--invert]")
         sys.exit(1)
 
-    input_image, output_svg = sys.argv[1], sys.argv[2]
-    lines = image_to_ascii(input_image)
+    input_image, output_svg = args[0], args[1]
+    lines = image_to_ascii(input_image, invert=invert)
     svg = ascii_to_svg(lines)
     with open(output_svg, "w", encoding="utf-8") as fh:
         fh.write(svg)
