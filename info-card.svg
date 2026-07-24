@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1885" height="244" viewBox="0 0 1885 244">
+  <rect x="0.5" y="0.5" width="1884" height="243" rx="10" ry="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 10 A10 10 0 0 1 10 0.5 H1874.5 A10 10 0 0 1 1884.5 10 V36 H0.5 Z" fill="#161b22" stroke="#30363d"/>
+  <circle cx="20" cy="18.0" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18.0" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18.0" r="6" fill="#27c93f"/>
+  <text x="942.5" y="18.0" text-anchor="middle" dominant-baseline="central" font-family="monospace" font-size="13px" fill="#8b949e">vatsal.ts</text>
+  <text font-family="monospace" font-size="15px" xml:space="preserve">
+    <tspan x="20" y="68"><tspan fill="#ff7b72">const </tspan><tspan fill="#79c0ff">vatsal</tspan><tspan fill="#c9d1d9"> = {</tspan></tspan>
+    <tspan x="20" y="90"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"AI &amp; Distributed Systems Engineer"</tspan><tspan fill="#c9d1d9">,</tspan></tspan>
+    <tspan x="20" y="112"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">education</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"MS in Computer Science @ Northeastern University"</tspan><tspan fill="#c9d1d9">,</tspan></tspan>
+    <tspan x="20" y="134"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">focus</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"AI Agents"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"RAG Pipelines"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Distributed Systems"</tspan><tspan fill="#c9d1d9">],</tspan></tspan>
+    <tspan x="20" y="156"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">techStack</tspan><tspan fill="#c9d1d9">: { </tspan><tspan fill="#79c0ff">languages</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">["Python", "Java", "C++", "JavaScript", "SQL"]</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#79c0ff">ai_ml</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">["PyTorch", "LangChain", "XGBoost", "LLM Orchestration"]</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#79c0ff">systems</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">["Apache Kafka", "FastAPI", "Docker", "Microservices"]</tspan><tspan fill="#c9d1d9"> },</tspan></tspan>
+    <tspan x="20" y="178"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">currentGoal</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Building autonomous agentic pipelines &amp; scalable messaging engines"</tspan><tspan fill="#c9d1d9">,</tspan></tspan>
+    <tspan x="20" y="200"><tspan fill="#c9d1d9">  </tspan><tspan fill="#79c0ff">openTo</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Fall 2026 Internships"</tspan><tspan fill="#c9d1d9">,</tspan></tspan>
+    <tspan x="20" y="222"><tspan fill="#c9d1d9">};</tspan></tspan>
+  </text>
+</svg>

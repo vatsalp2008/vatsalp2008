@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local editor / tooling
+.claude/
+
+# Local source photos (not needed in the repo; portrait is committed as SVG)
+source-photo.jpg
+source-prepped.png

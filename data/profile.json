@@ -1,0 +1,18 @@
+{
+  "name": "Vatsal Patel",
+  "role": "AI & Distributed Systems Engineer",
+  "education": "MS in Computer Science @ Northeastern University",
+  "focus": ["AI Agents", "RAG Pipelines", "Distributed Systems"],
+  "techStack": {
+    "languages": ["Python", "Java", "C++", "JavaScript", "SQL"],
+    "ai_ml": ["PyTorch", "LangChain", "XGBoost", "LLM Orchestration"],
+    "systems": ["Apache Kafka", "FastAPI", "Docker", "Microservices"]
+  },
+  "currentGoal": "Building autonomous agentic pipelines & scalable messaging engines",
+  "openTo": "Fall 2026 Internships",
+  "links": {
+    "portfolio": "https://vatsalp2008.github.io/Portfolio/",
+    "linkedin": "https://linkedin.com/in/vatsal-patel",
+    "github": "https://github.com/vatsalp2008"
+  }
+}
